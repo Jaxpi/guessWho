@@ -1,5 +1,5 @@
 {
-  "name": "Co-Op Guess Who",
+  "name": "Guess Who",
   "short_name": "GuessWho",
   "start_url": "./index.html",
   "display": "standalone",

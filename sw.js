@@ -1,4 +1,4 @@
-const CACHE_NAME = 'guess-who-coop-v2';
+const CACHE_NAME = 'guess-who-v1';
 const ASSETS = [
   'index.html',
   'style.css',
